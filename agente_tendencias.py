@@ -8,7 +8,7 @@ from selenium.webdriver.common.by import By
 from selenium.webdriver.common.action_chains import ActionChains
 
 # CONFIGURAÇÕES
-openai.api_key = os.environ["OPENAI_API_KEY"]
+openai.api_key = os.environ["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"]
 TEMPO_COLETA = 180  # segundos coletando tendências
 
 # --- COLETA DO TIKTOK ---
